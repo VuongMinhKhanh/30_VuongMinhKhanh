@@ -1,0 +1,1 @@
+cout<<"xin chào khánh"
